@@ -1,5 +1,3 @@
-#![allow(dead_code)]
-#![allow(unused_variables)]
 use clap::Parser;
 use csc411_image::{Read, RgbImage};
 use std::process;
